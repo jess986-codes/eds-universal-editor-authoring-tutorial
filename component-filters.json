@@ -14,7 +14,8 @@
       "cards",
       "columns",
       "fragment",
-      "quote"
+      "quote",
+      "carousel"
     ]
   },
   {
@@ -28,5 +29,9 @@
   {
     "id": "column",
     "components": ["text", "image", "button", "title"]
+  },
+  {
+    "id": "carousel",
+    "components": ["carousel-item"]
   }
 ]
