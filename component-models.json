@@ -235,7 +235,7 @@
     ]
   },
   {
-    "id": "carousel",
+    "id": "product-carousel",
     "fields": [
       {
         "component": "text",
