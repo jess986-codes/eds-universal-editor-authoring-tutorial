@@ -32,7 +32,7 @@
   },
   {
     "id": "carousel",
-    "components": ["carouselItem"]
+    "components": ["carousel-item"]
   },
   {
     "id": "container",
