@@ -33,5 +33,9 @@
   {
     "id": "carousel",
     "components": ["carouselItem", "title"]
+  },
+  {
+    "id": "container",
+    "components": ["cont"]
   }
 ]
