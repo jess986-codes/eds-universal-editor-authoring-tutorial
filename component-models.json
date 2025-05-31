@@ -234,8 +234,19 @@
       }
     ]
   },
+  { "id": "carousel",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "carouselTitle",
+        "value": "Title",
+        "label": "Title"
+      }
+    ]
+  },
   {
-    "id": "carousel-item",
+    "id": "carouselItem",
     "fields": [
       {
         "component": "text",
@@ -276,48 +287,6 @@
             "value": "h6"
           }
         ]
-      },
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "carouselDescription",
-        "value": "Description",
-        "label": "Description"
-      },
-      {
-        "component": "aem-content",
-        "valueType": "string",
-        "name": "carouselButton1",
-        "value": "",
-        "label": "Button1 Link"
-      },
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "carouselButton1Text",
-        "value": "",
-        "label": "Button1 Text"
-      },
-      {
-        "component": "aem-content",
-        "valueType": "string",
-        "name": "carouselButton2",
-        "value": "",
-        "label": "Button2 Link"
-      },
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "carouselButton2Text",
-        "value": "",
-        "label": "Button2 Text"
-      },
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "fileReference",
-        "label": "Image",
-        "multi": false
       }
     ]
   }
