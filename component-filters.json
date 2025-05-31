@@ -32,6 +32,6 @@
   },
   {
     "id": "carousel",
-    "components": ["carouselItem"]
+    "components": ["carouselItem", "title"]
   }
 ]
