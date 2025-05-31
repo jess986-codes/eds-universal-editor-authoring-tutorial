@@ -15,8 +15,7 @@
       "columns",
       "fragment",
       "quote",
-      "product-carousel",
-      "container" 
+      "carousel"    
     ]
   },
   {
@@ -32,8 +31,8 @@
     "components": ["text", "image", "button", "title"]
   },
   {
-    "id": "product-carousel",
-    "components": ["carouselItem", "title"]
+    "id": "carousel",
+    "components": ["carouselItem"]
   },
   {
     "id": "container",
