@@ -1,5 +1,5 @@
 function updateActiveSlide(slide) {
-  const block = slide.closest('.carousel');
+  const block = slide.closest(".product-carousel");
   const slideIndex = parseInt(slide.dataset.slideIndex, 10);
   block.dataset.activeSlide = slideIndex;
 
