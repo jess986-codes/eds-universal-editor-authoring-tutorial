@@ -15,7 +15,8 @@
       "columns",
       "fragment",
       "quote",
-      "carousel"
+      "carousel",
+      "carouselItem"
     ]
   },
   {
